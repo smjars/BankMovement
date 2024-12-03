@@ -1,6 +1,6 @@
 # BankMovement
 
-Proyecto: App de Movimientos Bancarios.
+Proyecto Kotlin: App de Movimientos Bancarios.
 
 Permite registrar movimientos de ingresos e ingresos y almacena cada movimiento con un id, monto y fecha del movimiento en una base de datos SQLite en local, y muestra un balance general de los movimientos almacenados.
 ## Imágenes
